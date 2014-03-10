@@ -1,9 +1,4 @@
 spawncamping-octo-wight
 =======================
-touch README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/erpijjgamestudios/spawncamping-octo-wight.git
-git push -u origin master
+Random program made by me!
 ...
